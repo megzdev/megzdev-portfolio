@@ -1,0 +1,24 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  border: 2px solid #fff;
+  padding: 30px;
+  border-radius: 15px;
+  background: #222;
+}
+
+a {
+  color: #00f2ff;
+  text-decoration: none;
+  font-weight: bold;
+}
